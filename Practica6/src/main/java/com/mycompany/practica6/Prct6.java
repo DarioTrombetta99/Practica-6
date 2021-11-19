@@ -16,7 +16,7 @@ import javax.swing.filechooser.FileNameExtensionFilter;
 
 /**
  *
- * @author juana
+ * @author Dario Trombetta y Piotr Pietruszynky
  */
 public class Prct6 extends javax.swing.JFrame {
 
